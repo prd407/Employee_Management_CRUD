@@ -1,9 +1,3 @@
-# Cosmocloud_tasks
-task submissions for Cosmocloud test
-
-Cosmocloud_task1.py is submission file for first task.
-
-# task 2
 app.py file has flask code, api endpoints.
 
 run python3 app.py to start the flask server on local host
